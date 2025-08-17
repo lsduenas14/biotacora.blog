@@ -8,5 +8,5 @@ sitemap:
 <img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>Bienvenidos a mi cuaderno abierto: biología, investigación y vida cotidiana.</p>
+	<p>Bienvenidos a mi bitácora de vida: escribo sobre biología, ciencia y las ideas que me inspiran.</p>
 	
