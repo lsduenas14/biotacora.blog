@@ -23,3 +23,11 @@ styles: [agate, androidstudio, arta, asceti, atelier-cave.dark, atelier-cave.lig
 # Build settings
 highlighter: null
 markdown: kramdown
+
+navigation:
+  - name: "Sobre mí"
+    link: /sobre-mi/
+  - name: "Résumé"
+    link: /resume/
+  - name: "Blog"
+    link: /blog/
