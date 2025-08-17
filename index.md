@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Hola!
-subtitle: Mi nombre es Salomé
 sitemap:
   priority: 0.9
 ---
