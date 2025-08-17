@@ -1,60 +1,47 @@
 ---
 layout: page
-title: Résumé
-subtitle: An awesome person
+title: Résumé / Curriculum
+subtitle: Estudiante de Ciencias Biológicas
 ---
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
-### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+### PERFIL
+``` Apasionada por la ciencia, con énfasis en la microbiología, neurobiología y ecofisiología. Combino divulgación científica con pequeños proyectos abiertos y aprendizaje continuo.    ```
+
+### HABILIDADES
+``` Laboratorio: pipeteo, cromatografía en capa fina y columna, espectrofotometría, preparación de soluciones. Estadística básica: descriptiva, t-test, ANOVA, gráficos (Excel/R / Python). Software: Python aplicado a las ciencias biológicas/ R/ Paquete Microsoft Office. Idiomas: Español (nativo), Inglés (avanzado), Francés e Italiano (básico).  ```  
 
 ### PROJECTS
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**Biotácora** - Sitio personal de divulgación  <span style="float: right; ">Time span</span>  
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
-
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**Desde el Núcleo** - Proyecto personal de divulgación científica <span style="float: right; ">Time span</span>   
 
 ### EDUCATION
 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
- 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+Universidad de Buenos Aires <span style="float: right; "> 
+**Licenciatura en Ciencias Biológicas**  
+Cursando 4.º año; a punto de iniciar el Ciclo Superior (orientación: Biología de Microorganismos). 
 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
+Wall Street English Institute <span style="float: right; ">Duration</span>  
+**Inglés B2**  
 
-### EXPERIENCE
+Alianza Francesa <span style="float: right; ">Duration</span>  
+**Francés A2.1**  
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+### FORMACIÓN COMPLEMENTARIA
 
- 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Biology meets Programming <span style="float: right; "> 
+**Coursera**  
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Writing in the Sciences <span style="float: right; "> 
+**Coursera** 
+
+### DIVULGACIÓN Y VOLUNTARIADO 
+
+Divulgadora - Biomimética - **Semana de la Biología FCEN 2024** <span style="float: right; ">
+Divulgadora - Luces, cámaras, ¡mamíferos! - **Feria del Libro Almirante Brown 2024** <span style="float: right; ">
+Voluntaria - Área Educativa - **Jardín Botánico Ciudad Autónoma de Buenos Aires 2024** <span style="float: right; ">
 
 
-### RECOGNITION & INTERESTS
-
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
