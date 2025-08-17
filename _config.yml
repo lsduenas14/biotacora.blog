@@ -1,16 +1,17 @@
 # Site settings
-title: Pudhina
+title: Biotácora
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
-
-baseurl: "/Pudhina" # the subpath of your site, e.g. /blog/
-url: "https://knhash.github.io" # the base hostname & protocol for your site
+  Bitácora de mi vida: personal y profesional. Escribo sobre biología, ciencia y las ideas que me inspiran. 
+lang: es
+timezone: America/Argentina/Buenos_Aires
+baseurl: "/biotacora-blog" # the subpath of your site, e.g. /blog/
+url: "https://lsduenas14.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
-  github: github
-  linkedin: linkedin
-  email: example@email.com
+  fullname: Salomé Dueñas
+  github: https://github.com/lsduenas14
+  linkedin: https://www.linkedin.com/in/salom%C3%A9-due%C3%B1as-5603b7343/
+  email: scduenas14@hotmail.com
 
 
 # Syntax highlighting
