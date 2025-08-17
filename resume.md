@@ -11,7 +11,7 @@ subtitle: Estudiante de Ciencias Biológicas
 ``` Apasionada por la ciencia con foco en la microbiología, neurobiología y ecofisiología. Combino divulgación científica con pequeños proyectos abiertos y aprendizaje continuo.    ```
 
 ### HABILIDADES
-**Laboratorio:** pipeteo; preparación de soluciones; espectrofotometría UV; cromatografía en capa fina (TLC) y en columna.
+- **Laboratorio:** pipeteo; preparación de soluciones; espectrofotometría UV; cromatografía en capa fina (TLC) y en columna.
 - **Estadística y análisis:** estadística descriptiva; t de Student; ANOVA; visualización de datos (Excel/Sheets, R, Python).
 - **Software:** Python aplicado a ciencias biológicas; R; Microsoft Office (Word, Excel, PowerPoint).
 - **Idiomas:** español (nativo), inglés (avanzado), francés (básico), italiano (básico).  
@@ -21,19 +21,18 @@ subtitle: Estudiante de Ciencias Biológicas
 
 **Desde el Núcleo** - Proyecto personal de divulgación científica <span style="float: right; ">  
 
-### EDUCATION
-
-Universidad de Buenos Aires <span style="float: right; "> 
-**Licenciatura en Ciencias Biológicas**  
-Cursando 4.º año; a punto de iniciar el Ciclo Superior (orientación: Biología de Microorganismos).
+### EDUCACIÓN
 
 
-Wall Street English Institute <span style="float: right; ">   
-**Inglés B2**  
+ **Universidad de Buenos Aires**  
+  **Licenciatura en Ciencias Biológicas**  
+  Cursando 4.º año; a punto de iniciar el Ciclo Superior (orientación: Biología de Microorganismos).
 
 
-Alianza Francesa <span style="float: right; ">
-**Francés A2.1**  
+**Wall Street English Institute** — Inglés B2
+
+
+ **Alianza Francesa** — Francés A2.1
 
 
 ### FORMACIÓN COMPLEMENTARIA
