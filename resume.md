@@ -24,8 +24,7 @@ subtitle: Estudiante de Ciencias Biológicas
 ### EDUCACIÓN
 
 
- **Universidad de Buenos Aires**  
- **Licenciatura en Ciencias Biológicas**  
+ **Universidad de Buenos Aires**  — Licenciatura en Ciencias Biológicas 
  Cursando 4.º año; a punto de iniciar el Ciclo Superior (orientación: Biología de Microorganismos).
 
 
