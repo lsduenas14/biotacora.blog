@@ -25,13 +25,16 @@ subtitle: Estudiante de Ciencias Biológicas
 
 Universidad de Buenos Aires <span style="float: right; "> 
 **Licenciatura en Ciencias Biológicas**  
-Cursando 4.º año; a punto de iniciar el Ciclo Superior (orientación: Biología de Microorganismos). 
+Cursando 4.º año; a punto de iniciar el Ciclo Superior (orientación: Biología de Microorganismos).
+
 
 Wall Street English Institute <span style="float: right; ">   
 **Inglés B2**  
 
+
 Alianza Francesa <span style="float: right; ">
 **Francés A2.1**  
+
 
 ### FORMACIÓN COMPLEMENTARIA
 
