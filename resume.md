@@ -25,8 +25,8 @@ subtitle: Estudiante de Ciencias Biológicas
 
 
  **Universidad de Buenos Aires**  
-  **Licenciatura en Ciencias Biológicas**  
-  Cursando 4.º año; a punto de iniciar el Ciclo Superior (orientación: Biología de Microorganismos).
+ **Licenciatura en Ciencias Biológicas**  
+ Cursando 4.º año; a punto de iniciar el Ciclo Superior (orientación: Biología de Microorganismos).
 
 
 **Wall Street English Institute** — Inglés B2
@@ -46,7 +46,10 @@ Writing in the Sciences <span style="float: right; ">
 ### DIVULGACIÓN Y VOLUNTARIADO 
 
 Divulgadora - Biomimética - **Semana de la Biología FCEN 2024** <span style="float: right; ">
+
 Divulgadora - Luces, cámaras, ¡mamíferos! - **Feria del Libro Almirante Brown 2024** <span style="float: right; ">
+
 Voluntaria - Área Educativa - **Jardín Botánico Ciudad Autónoma de Buenos Aires 2024** <span style="float: right; ">
+
 
 
